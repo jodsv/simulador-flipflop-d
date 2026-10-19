@@ -6,7 +6,7 @@ Script em Python desenvolvido para uma dinâmica de aula invertida de Introduç�
 
 Requisito: Python instalado. Não requer bibliotecas extras
 
-1. Clone o repositório ou baixe o arquivo `jogo_flipflop.py`.
+1. Clone o repositório ou baixe o arquivo `flipflop_d.py`.
 2. Abra o terminal e execute o comando:
    ```bash
-   python jogo_flipflop.py
+   python flipflop_d.py
